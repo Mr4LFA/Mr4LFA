@@ -1,7 +1,6 @@
 ### Hi there, I'm Mr4LFA 👋
 
 [![Website](https://img.shields.io/website?label=Mr4LFA.com&style=for-the-badge&url=https%3A%2F%2FMr4LFA.com)](https://Mr4LFA.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Mr4LFA?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMr4LFA&screen_name=Mr4LFA)
 
 ## I'm a Gamer, Streamer, Developer !!
 
@@ -12,10 +11,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Mr4LFA | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Mr4LFA | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Mr4LFA | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Mr4LFA | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Mr4LFA | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][https://youtube.com/Mr4LFA]
+[<img align="left" alt="Mr4LFA | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://instagram.com/Mr4LFA]
+[<img align="left" alt="Mr4LFA | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][https://fb.com/Mr4LFA]
 
 <br />
 
