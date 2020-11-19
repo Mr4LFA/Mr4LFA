@@ -52,6 +52,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Mr4lFA's GitHub Stats" src="https://github-readme-stats.Mr4LFA.vercel.app/api?username=Mr4LFA&show_icons=true&hide_border=true" />
+  <img align="left" alt="Mr4LFA's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Mr4LFA&show_icons=true&hide_border=true" />
 
 </details>
