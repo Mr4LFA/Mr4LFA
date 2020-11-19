@@ -11,9 +11,9 @@
 
 ### Connect with me:
 
-<img align="left" alt="Mr4LFA href="https://youtube.com/Mr4LFA" | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-<img align="left" alt="Mr4LFA href="https://instagram.com/Mr4LFA" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-<img align="left" alt="Mr4LFA href="https://fb.com/Mr4LFA" | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="https://youtube.com/Mr4LFA" /><img align="left" alt="Mr4LFA | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+<a href="https://instagram.com/Mr4LFA"><img align="left" alt="Mr4LFA  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://fb.com/Mr4LFA"><img align="left" alt="Mr4LFA | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 
 <br />
 
