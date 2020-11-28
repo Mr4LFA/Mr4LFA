@@ -1,6 +1,6 @@
 ### Hi there, I'm Mr4LFA 👋
 
-[![Website](https://img.shields.io/website?label=Mr4LFA.com&style=for-the-badge&url=https%3A%2F%2FMr4LFA.com)](https://Mr4LFA.com)
+[![Website](https://img.shields.io/website?label=Mr4LFA.com&style=for-the-badge&url=https%3A%2F%2FMr4LFA.com)](https://www.fb.com/Mr4lfa)
 
 ## I'm a Gamer, Streamer, Developer !!
 
